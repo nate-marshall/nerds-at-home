@@ -1,7 +1,7 @@
 
 # Nerds at Home
 
-Welcome to **Nerds at Home**! This project is a web application built using React, TypeScript, and Node.js, inspired by the [Titan](https://themewagon.github.io/titan/index_landing.html) template. It serves as a landing page showcasing various features, testimonials, and contact information.
+Welcome to **Nerds at Home**! This project is a web application built using React, TypeScript, and Node.js, inspired by the [Titan](https://themewagon.github.io/titan/index_landing.html) template. It serves as a landing page designed to support my YouTube channel, TechN8, where I help beginners get started with home labs, home automation, platform, DevOps, and more. This project serves as a playground to experiment with various tech concepts while providing a modern, tech-themed interface.
 
 ## Table of Contents
 
